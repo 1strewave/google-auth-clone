@@ -1,0 +1,6 @@
+{"level":"info","ts":1741399024.464361,"msg":"Started server - Time: 2025-03-07 17:57:04"}
+{"level":"info","ts":1741399030.383535,"msg":"Request: GET /status from ::1, time: 2025-03-07 17:57:10"}
+{"level":"info","ts":1741399031.3737054,"msg":"Request: GET /status from ::1, time: 2025-03-07 17:57:11"}
+{"level":"info","ts":1741399051.2208755,"msg":"Started server - Time: 2025-03-07 17:57:31"}
+{"level":"info","ts":1741399054.6066704,"msg":"Request: GET /status from ::1, time: 2025-03-07 17:57:34"}
+{"level":"info","ts":1741399055.267515,"msg":"Request: GET /status from ::1, time: 2025-03-07 17:57:35"}
